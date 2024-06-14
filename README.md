@@ -1,6 +1,8 @@
 # Zomato_Sales_Analysis_Powerbi
   [zomato_Sales_Analysis_Powerbi.pptx](https://github.com/user-attachments/files/15841352/zomato_Sales_Analysis_Powerbi.pptx)
-  [Uploading zomato_Sales_Analysis_Powerbi.pdf…]()
+  
+  [zomato_Sales_Analysis_Powerbi.pdf](https://github.com/user-attachments/files/15841372/zomato_Sales_Analysis_Powerbi.pdf)
+
 
 
 📊 Zomato Sales Analysis on Power BI 📈
